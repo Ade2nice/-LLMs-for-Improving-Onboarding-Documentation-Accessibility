@@ -6,7 +6,25 @@ Large language models (LLMs) have shown great potential in providing text transf
 
 **VISION**
 
-TRANSLATION AND LOCALIZATION
-![English Version](./image_1.png)
+EXAMPLE SHOWING TRANSLATION AND LOCALIZATION TO SPANISH
+********************************************************
+ENGLISH VERSION
+********************************************************
+![English Version](./image_1.png) 
+********************************************************
+SPANISH VERSION
+********************************************************
+![Spanish Version](./image_2.png) 
+********************************************************
+SPANISH LOCALIZED VERSION
+********************************************************
+![Spanish Localized Version](./image_3.png) 
+
+The Localized version adjusts phrases to sound more natural and familiar to Spanish-speaking users, making minor modifications to fit local expressions.
 
 
+VISUALIZATION USING MIND-MAPS
+********************************************************
+EXAMPLE SHOWING VISUALIZATION OF AXIOS OPEN-SOURCE PROJECT
+********************************************************
+![Mind-maps](./image_4.png) 
