@@ -10,15 +10,15 @@ EXAMPLE SHOWING TRANSLATION AND LOCALIZATION TO SPANISH
 ********************************************************
 ENGLISH VERSION
 ********************************************************
-![English Version](./image_1.png) 
+![English Version](./English_version.png) 
 ********************************************************
 SPANISH VERSION
 ********************************************************
-![Spanish Version](./image_2.png) 
+![Spanish Version](./Translated_version.png) 
 ********************************************************
 SPANISH LOCALIZED VERSION
 ********************************************************
-![Spanish Localized Version](./image_3.png) 
+![Spanish Localized Version](./Localized_version.png) 
 
 The Localized version adjusts phrases to sound more natural and familiar to Spanish-speaking users, making minor modifications to fit local expressions.
 
@@ -27,4 +27,4 @@ VISUALIZATION USING MIND-MAPS
 ********************************************************
 EXAMPLE SHOWING VISUALIZATION OF AXIOS OPEN-SOURCE PROJECT
 ********************************************************
-![Mind-maps](./image_4.png) 
+![Mind-maps](./Mind_map.png) 
